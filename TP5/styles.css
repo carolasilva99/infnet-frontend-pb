@@ -1,0 +1,37 @@
+header {
+    background-color: #a8a5a5;
+}
+
+#pesquisar {
+    background-color: #bdbbbb;
+    float: left;
+}
+
+#pesquisar input {
+    border-radius: 10px;
+    background-color: #bdbbbb;
+    padding: 0.4%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+nav {
+    margin: 15px;
+    float: right;
+}
+
+nav ul li {
+    color: #563ec2;
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: #7865c9;
+    cursor: pointer;
+}
+
+#banner img {
+    width: 960px;
+    height: 301px;
+}
